@@ -4,8 +4,6 @@ A simple and responsive calculator application built using HTML, CSS, and JavaSc
 
 Interface Preview
 [Calculator Interface](https://github.com/GDRNawodya/Simple-Calculator/blob/main/simple-calculator-jpg1.png?raw=true)
-(https://github.com/GDRNawodya/Simple-Calculator/blob/main/simple-calculator-jpg2.png?raw=true)
-
 
 Description
 This project is a functional calculator designed to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It demonstrates the use of core front-end web development technologies and CSS Grid/Flexbox layouts.
