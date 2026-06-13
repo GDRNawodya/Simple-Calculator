@@ -3,7 +3,8 @@
 A simple and responsive calculator application built using HTML, CSS, and JavaScript.
 
 Interface Preview
-![Calculator Interface](https://github.com/GDRNawodya/Simple-Calculator/blob/main/simple-calculator-jpg1.png?raw=true)
+[Calculator Interface](https://github.com/GDRNawodya/Simple-Calculator/blob/main/simple-calculator-jpg1.png?raw=true)
+(https://github.com/GDRNawodya/Simple-Calculator/blob/main/simple-calculator-jpg2.png?raw=true)
 
 
 Description
